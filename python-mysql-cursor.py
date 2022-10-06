@@ -2,7 +2,7 @@
 import mysql.connector
 
 # Conexion
-cnx = mysql.connector.connect(user='****', password='****', host='localhost',database='codigoIoT')
+cnx = mysql.connector.connect(user='brnxd', password='BAg1222', host='localhost',database='codigoIoT')
 
 # Cursor
 cursor = cnx.cursor()
